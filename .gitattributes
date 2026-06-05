@@ -1,12 +1,1 @@
-# 全テキストファイルを LF に統一
-* text=auto eol=lf
-
-# バイナリ（改行変換しない）
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-*.webp binary
-*.ico binary
-*.pdf binary
-*.zip binary
+*.md text eol=lf
