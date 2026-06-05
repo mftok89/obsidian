@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#ffffff"/>
+  <text x="20" y="30" font-size="20" fill="#333">胸郭: オープンブック（四つ這いから回旋）</text>
+  <rect x="120" y="220" width="200" height="12" fill="#c8e6c9"/>
+  <circle cx="220" cy="160" r="18" fill="#FFD7A3" stroke="#333"/>
+  <rect x="200" y="178" width="40" height="40" rx="6" fill="#9bd3f7" stroke="#333"/>
+  <line x1="200" y1="190" x2="160" y2="210" stroke="#333" stroke-width="8"/>
+  <line x1="240" y1="190" x2="280" y2="210" stroke="#333" stroke-width="8"/>
+  <line x1="200" y1="178" x2="170" y2="140" stroke="#333" stroke-width="8"/>
+  <text x="170" y="130" font-size="14" fill="#333">肘</text>
+  <path d="M170 140 A70 70 0 0 1 260 160" fill="none" stroke="#e91e63" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="300" y="160" font-size="14" fill="#333">↷ 回旋</text>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#e91e63"/>
+    </marker>
+  </defs>
+</svg>

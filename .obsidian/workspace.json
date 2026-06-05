@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "55705450aa859fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d308e0af9499f325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "576a62dc83e1bdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude"
+            }
+          },
+          {
+            "id": "6cb24e311de8c1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "キーワード.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "キーワード"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3258f8b97560231a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85df35581aa701c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ac4afb766a7b7dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ac171fc7aac8ff2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wsl2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "bfe9eae43b5a49de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72c4f880f706e7f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "de30c1c5c4a32d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9d8a3cb7fb91dfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "キーワード.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "キーワードへのバックリンク"
+            }
+          },
+          {
+            "id": "e318929102e1f9e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "367297b166d5ec19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "deaa9882a13962fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "a69a0ebb7d659733",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "terminal:Open terminal": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "6cb24e311de8c1bc",
+  "lastOpenFiles": [
+    "あおんぼさん.md",
+    "キーワード.md",
+    "100_inbox/あおんぼさん.md",
+    "投げる時のいままでにない良い感覚.md",
+    "無題のファイル.canvas",
+    "claude.md",
+    "100_inbox/思考系skillの作成・活用.md",
+    "青んぼさん",
+    "400_Resources/AI・開発ツール/cursorの使い方.md",
+    "400_Resources/AI・開発ツール/Cursorによる倍速コーディングの要約.md",
+    "400_Resources/AI・開発ツール/WSL2_Cursor_GitHub_セットアップガイド.md",
+    "400_Resources/AI・開発ツール/Webサイト開発.md",
+    "300_Areas/MFT事業/AIに聞く、練習方法 1.md",
+    "200_Projects/歴代OB会長に感謝の会/歴代OB会長に感謝の会.md",
+    "歴代OB会長に感謝の会.md",
+    "200_Projects/歴代OB会長に感謝の会",
+    "200_Projects/無題のフォルダ",
+    "400_Resources/思考メモ/ボランティアの気持ち.md",
+    "100_inbox/_README.md",
+    "200_Projects/workspace001_idea/20260505log.md",
+    "200_Projects/workspace001_idea/野球の矛盾/軍隊式教育が及ぼす野球人口への悪影響とは？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/指導者が必要な、野球以外の教えの時間.md",
+    "200_Projects/workspace001_idea/野球の矛盾",
+    "200_Projects/workspace001_idea/野球の矛盾/少年野球での勝利至上主義が将来の故障に繋がる理由は？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/日本と海外の野球指導にはどんな違いがありますか？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/大人がいない方が楽しいという考えのきっかけは？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/勝利至上主義が子供の故障にどう影響していますか？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/野球人口が人口比の8倍の速さで減る具体的な理由は？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/保護者の負担を減らすための具体的な解決策はある？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/矛盾1.md",
+    "000_me/00_profile.md",
+    "200_Projects/workspace001_idea",
+    "imagedata/Pasted image 20260505011626.png",
+    "imagedata/Pasted image 20260505011401.png",
+    "imagedata/Pasted image 20260505011726.png",
+    "imagedata/Pasted image 20260505011810.png",
+    "imagedata/Pasted image 20260505011833.png",
+    "imagedata/Pasted image 20260505011908.png",
+    "imagedata/scapula_wall_slide.svg",
+    "imagedata/thoracic_open_book.svg",
+    "imagedata/throwing_chain.svg",
+    "imagedata/welcart.jpg",
+    "200_Projects/working_web_git",
+    "200_Projects/新しいフォルダー",
+    "index.base",
+    "400_Resources/dreamweaver",
+    "Clippings"
+  ]
+}

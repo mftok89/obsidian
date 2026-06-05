@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300">
+  <rect width="720" height="300" fill="#ffffff"/>
+  <text x="20" y="28" font-size="20" fill="#333">投球の運動連鎖: 股関節 → 骨盤/胸郭 → 肩甲骨 → 肩 → 前腕/手首</text>
+  <rect x="40" y="80" width="100" height="40" rx="6" fill="#c8e6c9" stroke="#333"/>
+  <text x="90" y="105" text-anchor="middle" font-size="14">股関節</text>
+  <rect x="180" y="80" width="120" height="40" rx="6" fill="#bbdefb" stroke="#333"/>
+  <text x="240" y="105" text-anchor="middle" font-size="14">骨盤/胸郭</text>
+  <rect x="340" y="80" width="100" height="40" rx="6" fill="#ffe0b2" stroke="#333"/>
+  <text x="390" y="105" text-anchor="middle" font-size="14">肩甲骨</text>
+  <rect x="480" y="80" width="80" height="40" rx="6" fill="#f8bbd0" stroke="#333"/>
+  <text x="520" y="105" text-anchor="middle" font-size="14">肩</text>
+  <rect x="590" y="80" width="90" height="40" rx="6" fill="#d1c4e9" stroke="#333"/>
+  <text x="635" y="105" text-anchor="middle" font-size="14">前腕/手首</text>
+  <line x1="140" y1="100" x2="180" y2="100" stroke="#e91e63" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="300" y1="100" x2="340" y2="100" stroke="#e91e63" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="440" y1="100" x2="480" y2="100" stroke="#e91e63" stroke-width="3" marker-end="url(#arrow)"/>
+  <line x1="560" y1="100" x2="590" y2="100" stroke="#e91e63" stroke-width="3" marker-end="url(#arrow)"/>
+  <text x="360" y="160" font-size="14" fill="#333">“力の伝達”がスムーズに進むほど、肩・肘への負担↓</text>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L6,3 z" fill="#e91e63"/>
+    </marker>
+  </defs>
+</svg>
