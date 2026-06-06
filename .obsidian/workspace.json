@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "claude.md",
+                "file": "キーワード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude"
+              "title": "キーワード"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "claude.md",
+                "file": "キーワード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "claudeへのバックリンク"
+              "title": "キーワードへのバックリンク"
             }
           },
           {
@@ -184,12 +184,14 @@
   },
   "active": "576a62dc83e1bdb9",
   "lastOpenFiles": [
-    "あおんぼさん.md",
+    "キーワード2.md",
+    "キーワード1.md",
     "キーワード.md",
+    "claude.md",
+    "あおんぼさん.md",
     "100_inbox/あおんぼさん.md",
     "投げる時のいままでにない良い感覚.md",
     "無題のファイル.canvas",
-    "claude.md",
     "100_inbox/思考系skillの作成・活用.md",
     "青んぼさん",
     "400_Resources/AI・開発ツール/cursorの使い方.md",
@@ -213,8 +215,6 @@
     "200_Projects/workspace001_idea/野球の矛盾/勝利至上主義が子供の故障にどう影響していますか？.md",
     "200_Projects/workspace001_idea/野球の矛盾/野球人口が人口比の8倍の速さで減る具体的な理由は？.md",
     "200_Projects/workspace001_idea/野球の矛盾/保護者の負担を減らすための具体的な解決策はある？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/矛盾1.md",
-    "000_me/00_profile.md",
     "200_Projects/workspace001_idea",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
