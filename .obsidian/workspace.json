@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d308e0af9499f325",
+        "id": "acb29d7577c05443",
         "type": "tabs",
         "children": [
           {
-            "id": "576a62dc83e1bdb9",
+            "id": "0942120c780a9425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "キーワード.md",
+                "file": "400_Resources/prompt/リサーチ/04ソース付きファクトチェックプロンプト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワード"
+              "title": "04ソース付きファクトチェックプロンプト"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "キーワード.md",
+                "file": "400_Resources/prompt/リサーチ/04ソース付きファクトチェックプロンプト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "キーワードへのバックリンク"
+              "title": "04ソース付きファクトチェックプロンプトへのバックリンク"
             }
           },
           {
@@ -182,11 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "576a62dc83e1bdb9",
+  "active": "0942120c780a9425",
   "lastOpenFiles": [
-    "キーワード2.md",
     "キーワード1.md",
     "キーワード.md",
+    "キーワード2.md",
     "claude.md",
     "あおんぼさん.md",
     "100_inbox/あおんぼさん.md",
