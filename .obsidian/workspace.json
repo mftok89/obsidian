@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/キーワード.md",
+                "file": "000_me/キーワードの整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワード"
+              "title": "キーワードの整理"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "73428ac3c3505ff2",
   "lastOpenFiles": [
-    "キーワードの整理.md",
     "000_me/キーワード.md",
+    "000_me/キーワードの整理.md",
+    "キーワードの整理.md",
     "000_me/decisions_log.md.md",
     "000_me/03_preferences.md",
     "000_me/02_context.md",
@@ -224,7 +225,6 @@
     "歴代OB会長に感謝の会.md",
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
-    "400_Resources/思考メモ/ボランティアの気持ち.md",
     "200_Projects/workspace001_idea/野球の矛盾",
     "200_Projects/workspace001_idea",
     "imagedata/Pasted image 20260505011626.png",
