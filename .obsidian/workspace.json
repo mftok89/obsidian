@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/キーワードの整理.md",
+                "file": "400_Resources/prompt/コード開発に便利なプロンプト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワードの整理"
+              "title": "コード開発に便利なプロンプト"
             }
           }
         ]
@@ -195,8 +195,11 @@
   },
   "active": "73428ac3c3505ff2",
   "lastOpenFiles": [
-    "000_me/キーワード.md",
+    "400_Resources/AI・開発ツール/claude code/claude.mdに書いておくといいもの.md",
+    "400_Resources/prompt/コード開発に便利なプロンプト.md",
     "000_me/キーワードの整理.md",
+    "400_Resources/prompt/コード開発の時のプロンプト",
+    "000_me/キーワード.md",
     "キーワードの整理.md",
     "000_me/decisions_log.md.md",
     "000_me/03_preferences.md",
@@ -221,8 +224,6 @@
     "400_Resources/AI・開発ツール/WSL2_Cursor_GitHub_セットアップガイド.md",
     "400_Resources/AI・開発ツール/Webサイト開発.md",
     "300_Areas/MFT事業/AIに聞く、練習方法 1.md",
-    "200_Projects/歴代OB会長に感謝の会/歴代OB会長に感謝の会.md",
-    "歴代OB会長に感謝の会.md",
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
     "200_Projects/workspace001_idea/野球の矛盾",
@@ -240,7 +241,6 @@
     "200_Projects/working_web_git",
     "200_Projects/新しいフォルダー",
     "index.base",
-    "400_Resources/dreamweaver",
-    "Clippings"
+    "400_Resources/dreamweaver"
   ]
 }
