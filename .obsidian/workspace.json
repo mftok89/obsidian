@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "acb29d7577c05443",
+        "id": "dfc6ecbec19dcb72",
         "type": "tabs",
         "children": [
           {
-            "id": "0942120c780a9425",
+            "id": "73428ac3c3505ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "キーワード.md",
+                "file": "000_me/キーワード.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "キーワード.md",
+                "file": "000_me/キーワード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,13 +193,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0942120c780a9425",
+  "active": "73428ac3c3505ff2",
   "lastOpenFiles": [
-    "000_me/00_profile.md",
     "キーワードの整理.md",
-    "キーワード2.md",
+    "000_me/キーワード.md",
+    "000_me/decisions_log.md.md",
+    "000_me/03_preferences.md",
+    "000_me/02_context.md",
+    "000_me/01_goals.md",
+    "000_me/00_profile.md",
+    "000_me/自分整理の途中.md",
+    "000_me/自分のポートフォリオ.md",
+    "000_me/自己紹介.md",
     "キーワード1.md",
-    "キーワード.md",
+    "キーワード2.md",
     "400_Resources/prompt/リサーチ/04ソース付きファクトチェックプロンプト.md",
     "claude.md",
     "あおんぼさん.md",
@@ -218,14 +225,7 @@
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
     "400_Resources/思考メモ/ボランティアの気持ち.md",
-    "100_inbox/_README.md",
-    "200_Projects/workspace001_idea/20260505log.md",
-    "200_Projects/workspace001_idea/野球の矛盾/軍隊式教育が及ぼす野球人口への悪影響とは？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/指導者が必要な、野球以外の教えの時間.md",
     "200_Projects/workspace001_idea/野球の矛盾",
-    "200_Projects/workspace001_idea/野球の矛盾/少年野球での勝利至上主義が将来の故障に繋がる理由は？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/日本と海外の野球指導にはどんな違いがありますか？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/大人がいない方が楽しいという考えのきっかけは？.md",
     "200_Projects/workspace001_idea",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
