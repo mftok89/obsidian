@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400_Resources/prompt/コード開発に便利なプロンプト.md",
+                "file": "000_me/キーワードまとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コード開発に便利なプロンプト"
+              "title": "キーワードまとめ"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "f32af6ec32e4d470",
   "lastOpenFiles": [
-    "400_Resources/prompt/プロンプトの効率を上げる方法.md",
+    "000_me/キーワード（私の考えの基本）.md",
     "400_Resources/prompt/コード開発に便利なプロンプト.md",
+    "400_Resources/prompt/プロンプトの効率を上げる方法.md",
     "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
     "400_Resources/AI・開発ツール/claude code/インストール後にやるべき10の設定（ケイト氏解説）.md",
@@ -222,7 +223,6 @@
     "400_Resources/AI・開発ツール/WSL2_Cursor_GitHub_セットアップガイド.md",
     "400_Resources/AI・開発ツール/Webサイト開発.md",
     "300_Areas/MFT事業/AIに聞く、練習方法 1.md",
-    "200_Projects/歴代OB会長に感謝の会/歴代OB会長に感謝の会.md",
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
     "200_Projects/workspace001_idea/野球の矛盾",
