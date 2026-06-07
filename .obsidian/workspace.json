@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "403ad406afbf272a",
+        "id": "9a482e26da55f8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7303798f2b88a5a3",
+            "id": "4f5e880cfe8033d0",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "markdown",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "G:\\マイドライブ\\obsidian",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "C:\\Windows\\System32\\cmd.exe",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
+                "file": "000_me/キーワード.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "ターミナル: C:\\Windows\\System32\\conhost.exe"
+              "icon": "lucide-file",
+              "title": "キーワード"
             }
           }
         ],
@@ -220,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7303798f2b88a5a3",
+  "active": "4f5e880cfe8033d0",
   "lastOpenFiles": [
-    "000_me/キーワード.md",
     "000_me/キーワード体系（私の行動指針）.md",
+    "000_me/キーワード.md",
     "000_me/キーワードまとめ.md",
     "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/prompt/コード開発に便利なプロンプト.md",
