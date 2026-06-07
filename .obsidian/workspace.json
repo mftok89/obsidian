@@ -4,20 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "6830dd04a1eca8ed",
-        "type": "tabs",
+        "id": "90f052e387cf3c5e",
+        "type": "split",
         "children": [
           {
-            "id": "ef3fcaa71204eaa7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
+            "id": "6830dd04a1eca8ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef3fcaa71204eaa7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000_me/キーワード.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "キーワード"
+                }
+              }
+            ]
+          },
+          {
+            "id": "403ad406afbf272a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7303798f2b88a5a3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "G:\\マイドライブ\\obsidian",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "C:\\Windows\\System32\\cmd.exe",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "win32": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "ターミナル: ✳ Organize personal keywords and philosophy guide"
+                }
+              }
+            ],
+            "stacked": true
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -191,7 +249,10 @@
   },
   "active": "ef3fcaa71204eaa7",
   "lastOpenFiles": [
-    "000_me/キーワード（私の考えの基本）.md",
+    "000_me/キーワード体系（私の行動指針）.md",
+    "000_me/キーワードまとめ.md",
+    "000_me/キーワード.md",
+    "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/prompt/コード開発に便利なプロンプト.md",
     "100_inbox/読むページ.md",
     "100_inbox/投げる時のいままでにない良い感覚.md",
@@ -199,9 +260,7 @@
     "100_inbox/見ようと思っているYOUTUBE.md",
     "100_inbox/スマホからのリモートコントロールobsidian.md",
     "GEMINI.md",
-    "000_me/キーワードまとめ.md",
     "400_Resources/prompt/プロンプトの効率を上げる方法.md",
-    "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
     "400_Resources/AI・開発ツール/claude code/インストール後にやるべき10の設定（ケイト氏解説）.md",
     "400_Resources/AI・開発ツール/claude code/Obsidian によるナレッジ管理.md",
@@ -216,7 +275,6 @@
     "claude.md",
     "あおんぼさん.md",
     "キーワード.md",
-    "100_inbox/あおんぼさん.md",
     "無題のファイル.canvas",
     "青んぼさん",
     "200_Projects/歴代OB会長に感謝の会",
