@@ -15,14 +15,14 @@
                 "id": "ef3fcaa71204eaa7",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "000_me/キーワード.md",
-                    "mode": "source",
-                    "source": false
+                    "aFile": ".obsidian/workspace.json",
+                    "bFile": ".obsidian/workspace.json",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "キーワード"
+                  "icon": "diff",
+                  "title": "Diff: workspace.json  (Working Tree)"
                 }
               }
             ]
@@ -68,7 +68,7 @@
                   },
                   "pinned": true,
                   "icon": "terminal",
-                  "title": "ターミナル: ✳ Organize personal keywords and philosophy guide"
+                  "title": "ターミナル: osamu@DESKTOP-GBE8JIF: ~"
                 }
               }
             ],
@@ -247,11 +247,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef3fcaa71204eaa7",
+  "active": "2ac4afb766a7b7dc",
   "lastOpenFiles": [
+    "000_me/キーワード.md",
     "000_me/キーワード体系（私の行動指針）.md",
     "000_me/キーワードまとめ.md",
-    "000_me/キーワード.md",
     "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/prompt/コード開発に便利なプロンプト.md",
     "100_inbox/読むページ.md",
