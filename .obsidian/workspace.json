@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d308e0af9499f325",
+        "id": "c18e64da10d21ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "576a62dc83e1bdb9",
+            "id": "2cf0041568726847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "claude.md",
+                "file": "400_Resources/prompt/コード開発に便利なプロンプト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claude"
+              "title": "コード開発に便利なプロンプト"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsl2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "claude.md",
+                "file": "400_Resources/prompt/コード開発に便利なプロンプト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "claudeへのバックリンク"
+              "title": "コード開発に便利なプロンプトへのバックリンク"
             }
           },
           {
@@ -162,8 +162,19 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "92a71bfe55c4f1ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -182,14 +193,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "576a62dc83e1bdb9",
+  "active": "2cf0041568726847",
   "lastOpenFiles": [
+    "400_Resources/prompt/コード開発に便利なプロンプト.md",
+    "400_Resources/AI・開発ツール/claude code/00claude tips.md",
+    "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
+    "400_Resources/AI・開発ツール/claude code/インストール後にやるべき10の設定（ケイト氏解説）.md",
+    "400_Resources/AI・開発ツール/claude code/Obsidian によるナレッジ管理.md",
+    "400_Resources/Web開発/Linux (Ubuntu) でよく使うコマンドまとめ.md",
+    "400_Resources/Web開発/正規表現.md",
+    "400_Resources/Web開発/AndroidにおけるGitHubクライアントの決定版｜こまごろ.md",
+    "400_Resources/Web開発/0_linux コマンド.md",
+    "400_Resources/AI・開発ツール/cursor_obsidian/画像生成ツールをCursorで作って仕事の効率化しちゃおう｜宇野雄  note inc. CDO.md",
+    "400_Resources/AI・開発ツール/cursor_obsidian/第4回｜Obsidian × Cursorで数学研究会スライドを爆速作成した話｜こじか🦌@教育×AI.md",
+    "400_Resources/AI・開発ツール/claude code/Thread by @SuguruKun_ai.md",
+    "400_Resources/AI・開発ツール/claude code/design.md",
+    "claude.md",
     "あおんぼさん.md",
     "キーワード.md",
     "100_inbox/あおんぼさん.md",
     "投げる時のいままでにない良い感覚.md",
     "無題のファイル.canvas",
-    "claude.md",
     "100_inbox/思考系skillの作成・活用.md",
     "青んぼさん",
     "400_Resources/AI・開発ツール/cursorの使い方.md",
@@ -201,20 +225,7 @@
     "歴代OB会長に感謝の会.md",
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
-    "400_Resources/思考メモ/ボランティアの気持ち.md",
-    "100_inbox/_README.md",
-    "200_Projects/workspace001_idea/20260505log.md",
-    "200_Projects/workspace001_idea/野球の矛盾/軍隊式教育が及ぼす野球人口への悪影響とは？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/指導者が必要な、野球以外の教えの時間.md",
     "200_Projects/workspace001_idea/野球の矛盾",
-    "200_Projects/workspace001_idea/野球の矛盾/少年野球での勝利至上主義が将来の故障に繋がる理由は？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/日本と海外の野球指導にはどんな違いがありますか？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/大人がいない方が楽しいという考えのきっかけは？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/勝利至上主義が子供の故障にどう影響していますか？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/野球人口が人口比の8倍の速さで減る具体的な理由は？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/保護者の負担を減らすための具体的な解決策はある？.md",
-    "200_Projects/workspace001_idea/野球の矛盾/矛盾1.md",
-    "000_me/00_profile.md",
     "200_Projects/workspace001_idea",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
