@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/キーワード（私の考えの基本）.md",
+                "file": "000_me/キーワード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワード（私の考えの基本）"
+              "title": "キーワード"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_me/キーワード（私の考えの基本）.md",
+                "file": "000_me/キーワード.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "キーワード（私の考えの基本）へのバックリンク"
+              "title": "キーワードへのバックリンク"
             }
           },
           {
@@ -164,7 +164,7 @@
             }
           },
           {
-            "id": "f3af06d6e249b129",
+            "id": "41af2a1dc4fc9cbe",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,11 +195,11 @@
   },
   "active": "576a62dc83e1bdb9",
   "lastOpenFiles": [
-    "キーワード.md",
     "000_me/キーワード（私の考えの基本）.md",
-    "000_me/キーワードまとめ.md",
+    "000_me/キーワード.md",
     "claude.md",
     "あおんぼさん.md",
+    "キーワード.md",
     "100_inbox/あおんぼさん.md",
     "投げる時のいままでにない良い感覚.md",
     "無題のファイル.canvas",
