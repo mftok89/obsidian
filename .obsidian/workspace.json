@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c18e64da10d21ea6",
+        "id": "7a7ed08383b1cbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "2cf0041568726847",
+            "id": "f32af6ec32e4d470",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cf0041568726847",
+  "active": "f32af6ec32e4d470",
   "lastOpenFiles": [
+    "400_Resources/prompt/プロンプトの効率を上げる方法.md",
     "400_Resources/prompt/コード開発に便利なプロンプト.md",
     "400_Resources/AI・開発ツール/claude code/00claude tips.md",
     "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
@@ -222,7 +223,6 @@
     "400_Resources/AI・開発ツール/Webサイト開発.md",
     "300_Areas/MFT事業/AIに聞く、練習方法 1.md",
     "200_Projects/歴代OB会長に感謝の会/歴代OB会長に感謝の会.md",
-    "歴代OB会長に感謝の会.md",
     "200_Projects/歴代OB会長に感謝の会",
     "200_Projects/無題のフォルダ",
     "200_Projects/workspace001_idea/野球の矛盾",
