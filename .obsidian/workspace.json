@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/キーワードまとめ.md",
+                "file": "claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワードまとめ"
+              "title": "claude"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
     "id": "72c4f880f706e7f4",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_me/キーワードまとめ.md",
+                "file": "claude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "キーワードまとめへのバックリンク"
+              "title": "claudeへのバックリンク"
             }
           },
           {
@@ -162,19 +162,8 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
-          },
-          {
-            "id": "41af2a1dc4fc9cbe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,19 +184,12 @@
   },
   "active": "576a62dc83e1bdb9",
   "lastOpenFiles": [
-    "キーワードの整理.md",
-    "000_me/キーワードまとめ.md",
-    "キーワード2.md",
-    "キーワード1.md",
-    "キーワード.md",
-    "000_me/キーワードの整理.md",
-    "000_me/キーワード（私の考えの基本）.md",
-    "000_me/キーワード.md",
-    "claude.md",
     "あおんぼさん.md",
+    "キーワード.md",
     "100_inbox/あおんぼさん.md",
     "投げる時のいままでにない良い感覚.md",
     "無題のファイル.canvas",
+    "claude.md",
     "100_inbox/思考系skillの作成・活用.md",
     "青んぼさん",
     "400_Resources/AI・開発ツール/cursorの使い方.md",
@@ -226,6 +208,13 @@
     "200_Projects/workspace001_idea/野球の矛盾/指導者が必要な、野球以外の教えの時間.md",
     "200_Projects/workspace001_idea/野球の矛盾",
     "200_Projects/workspace001_idea/野球の矛盾/少年野球での勝利至上主義が将来の故障に繋がる理由は？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/日本と海外の野球指導にはどんな違いがありますか？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/大人がいない方が楽しいという考えのきっかけは？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/勝利至上主義が子供の故障にどう影響していますか？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/野球人口が人口比の8倍の速さで減る具体的な理由は？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/保護者の負担を減らすための具体的な解決策はある？.md",
+    "200_Projects/workspace001_idea/野球の矛盾/矛盾1.md",
+    "000_me/00_profile.md",
     "200_Projects/workspace001_idea",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
