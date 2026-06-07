@@ -4,78 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "90f052e387cf3c5e",
-        "type": "split",
+        "id": "403ad406afbf272a",
+        "type": "tabs",
         "children": [
           {
-            "id": "6830dd04a1eca8ed",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ef3fcaa71204eaa7",
-                "type": "leaf",
-                "state": {
-                  "type": "split-diff-view",
-                  "state": {
-                    "aFile": ".obsidian/workspace.json",
-                    "bFile": ".obsidian/workspace.json",
-                    "aRef": ""
+            "id": "7303798f2b88a5a3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "G:\\マイドライブ\\obsidian",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "icon": "diff",
-                  "title": "Diff: workspace.json  (Working Tree)"
+                  "serial": null
                 }
-              }
-            ]
-          },
-          {
-            "id": "403ad406afbf272a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7303798f2b88a5a3",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "G:\\マイドライブ\\obsidian",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "ターミナル: C:\\Windows\\System32\\conhost.exe"
-                }
-              }
-            ],
-            "stacked": true
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "ターミナル: C:\\Windows\\System32\\conhost.exe"
+            }
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -247,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ac4afb766a7b7dc",
+  "active": "7303798f2b88a5a3",
   "lastOpenFiles": [
     "000_me/キーワード.md",
     "000_me/キーワード体系（私の行動指針）.md",
