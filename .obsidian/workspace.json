@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/キーワード体系（私の行動指針）.md",
+                "file": "400_Resources/New repository 作成手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キーワード体系（私の行動指針）"
+              "title": "New repository 作成手順"
             }
           }
         ],
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "72c4f880f706e7f4",
@@ -196,32 +196,35 @@
   },
   "active": "4f5e880cfe8033d0",
   "lastOpenFiles": [
-    "000_me/キーワードまとめ.md",
-    "000_me/キーワード体系（私の行動指針）.md",
-    "000_me/キーワード.md",
-    "400_Resources/AI・開発ツール/claude code/00claude tips.md",
-    "400_Resources/prompt/コード開発に便利なプロンプト.md",
-    "100_inbox/読むページ.md",
-    "100_inbox/投げる時のいままでにない良い感覚.md",
-    "100_inbox/思考系skillの作成・活用.md",
-    "100_inbox/見ようと思っているYOUTUBE.md",
-    "100_inbox/スマホからのリモートコントロールobsidian.md",
-    "GEMINI.md",
+    "400_Resources/00常に参照する/コード開発に便利なプロンプト.md",
+    "400_Resources/New repository 作成手順.md",
+    "400_Resources/00常に参照する/00claude tips.md",
+    "400_Resources/00常に参照する/リサーチ/03知りたいことのざっくり調査プロンプト.md",
+    "400_Resources/00常に参照する/リサーチ/02次の一手提案プロンプト.md",
+    "400_Resources/00常に参照する/リサーチ/01リサーチのゴール設定プロンプト.md",
+    "900_Archive/伝票番号問題.md",
+    "200_Projects/idea/codex app server.md",
+    "900_Archive/課金すべきAIの診断.md",
+    "400_Resources/prompt/モノローグ法.md",
+    "900_Archive/本当に伝えたいことを書く、表現する.md",
     "400_Resources/prompt/プロンプトの効率を上げる方法.md",
-    "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
+    "400_Resources/prompt/PARAファイル作成用、プロンプト　para-file-organizer.md",
+    "400_Resources/prompt/効率の上がるプロンプト集.md",
+    "400_Resources/prompt/バイブコーディング/バイブコーディングを劇的に効率化するAIプロンプトを知りたい｜nagekuotoko.md",
+    "400_Resources/prompt/バイブコーディング/バイブコーディング仕様書作成プロンプト2.md",
+    "400_Resources/prompt/バイブコーディング/バイブコーディング仕様書作成プロンプト1.md",
     "400_Resources/AI・開発ツール/claude code/インストール後にやるべき10の設定（ケイト氏解説）.md",
     "400_Resources/AI・開発ツール/claude code/Obsidian によるナレッジ管理.md",
-    "400_Resources/Web開発/Linux (Ubuntu) でよく使うコマンドまとめ.md",
-    "400_Resources/Web開発/正規表現.md",
-    "400_Resources/Web開発/AndroidにおけるGitHubクライアントの決定版｜こまごろ.md",
-    "400_Resources/Web開発/0_linux コマンド.md",
-    "400_Resources/AI・開発ツール/cursor_obsidian/画像生成ツールをCursorで作って仕事の効率化しちゃおう｜宇野雄  note inc. CDO.md",
-    "400_Resources/AI・開発ツール/cursor_obsidian/第4回｜Obsidian × Cursorで数学研究会スライドを爆速作成した話｜こじか🦌@教育×AI.md",
     "400_Resources/AI・開発ツール/claude code/Thread by @SuguruKun_ai.md",
     "400_Resources/AI・開発ツール/claude code/design.md",
-    "claude.md",
-    "あおんぼさん.md",
-    "キーワード.md",
+    "400_Resources/AI・開発ツール/claude code/claude.mdに書いておくといいもの.md",
+    "400_Resources/AI・開発ツール/claude code/Claude Code セキュリティ対策.md",
+    "400_Resources/AI・開発ツール/claude code/【完全版】Claude Code運用40選｜KAWAI.md",
+    "900_Archive/MFT連載書籍化/2025年12月27日打合せ内容.md",
+    "400_Resources/野球・コーチング/野球上達の困りごと.md",
+    "400_Resources/02 アイディア出し(KJ)",
+    "400_Resources/01newPC設定用",
+    "400_Resources/00常に参照する",
     "無題のファイル.canvas",
     "青んぼさん",
     "200_Projects/歴代OB会長に感謝の会",
@@ -239,9 +242,6 @@
     "imagedata/throwing_chain.svg",
     "imagedata/welcart.jpg",
     "200_Projects/working_web_git",
-    "200_Projects/新しいフォルダー",
-    "index.base",
-    "400_Resources/dreamweaver",
-    "Clippings"
+    "200_Projects/新しいフォルダー"
   ]
 }
