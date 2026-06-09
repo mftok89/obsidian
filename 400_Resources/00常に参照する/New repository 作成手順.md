@@ -30,12 +30,12 @@ cursor .
 		↓  
 		初回push
 ```
-gh repo create my-app --private --source=. --remote=origin --push
+gh repo create ○○リポジトリ名 --private --source=. --remote=origin --push
 ```
 
 	private を　publicにすれば、公開モードになる
 ```
-gh repo create my-app --public --source=. --remote=origin --push
+gh repo create ○○リポジトリ名 --public --source=. --remote=origin --push
 ```
 
 ---
