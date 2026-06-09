@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400_Resources/00常に参照する/週次コンテキストを壁打ちで更新する仕組み.md",
+                "file": "400_Resources/01newPC設定用/WSL新規設定必須　Zone.Identifier問題.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "週次コンテキストを壁打ちで更新する仕組み"
+              "title": "WSL新規設定必須　Zone.Identifier問題"
             }
           }
         ],
@@ -196,10 +196,13 @@
   },
   "active": "4f5e880cfe8033d0",
   "lastOpenFiles": [
+    "400_Resources/skills/SYNC_SETUP.md",
+    "400_Resources/01newPC設定用/WSL新規設定必須　Zone.Identifier問題.md",
+    "400_Resources/01newPC設定用/WSL2_Cursor_GitHub_セットアップガイド.md",
+    "400_Resources/00常に参照する/週次コンテキストを壁打ちで更新する仕組み.md",
     "400_Resources/00常に参照する/コード開発に便利なプロンプト.md",
     "400_Resources/00常に参照する/00claude tips.md",
     "000_me/02_context.md",
-    "400_Resources/00常に参照する/週次コンテキストを壁打ちで更新する仕組み.md",
     "400_Resources/AI・開発ツール/週次コンテキストを壁打ちで更新する仕組み.md",
     "400_Resources/AI・開発ツール/週次コンテキストを壁打ちで更新する仕組み.md.tmp.14396.37da3c349c4a",
     "000_me/壁打ち_02_context更新.md",
@@ -226,9 +229,6 @@
     "400_Resources/prompt/バイブコーディング/バイブコーディングを劇的に効率化するAIプロンプトを知りたい｜nagekuotoko.md",
     "400_Resources/prompt/バイブコーディング/バイブコーディング仕様書作成プロンプト2.md",
     "400_Resources/prompt/バイブコーディング/バイブコーディング仕様書作成プロンプト1.md",
-    "400_Resources/AI・開発ツール/claude code/インストール後にやるべき10の設定（ケイト氏解説）.md",
-    "400_Resources/AI・開発ツール/claude code/Obsidian によるナレッジ管理.md",
-    "400_Resources/AI・開発ツール/claude code/Thread by @SuguruKun_ai.md",
     "400_Resources/02 アイディア出し(KJ)",
     "400_Resources/01newPC設定用",
     "400_Resources/00常に参照する",
