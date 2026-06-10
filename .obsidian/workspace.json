@@ -11,10 +11,14 @@
             "id": "3aa44621980fbc33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -190,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ac4afb766a7b7dc",
+  "active": "3aa44621980fbc33",
   "lastOpenFiles": [
+    "300_Areas/AI協働/AIミス・教訓ログ.md",
     "400_Resources/00常に参照する/01マニュアル.md",
     "400_Resources/01newPC設定用/WSL新規設定必須　Zone.Identifier問題.md",
     "400_Resources/00常に参照する/New repository 作成手順.md",
@@ -214,7 +219,6 @@
     "900_Archive/000_me",
     "300_Areas/AI協働/AIログ自動記録_マニュアル.md",
     "300_Areas/AI協働/決断ログ.md",
-    "300_Areas/AI協働/AIミス・教訓ログ.md",
     "claude-write-test.md",
     "400_Resources/01newPC設定用/MCPでWSLとobsidianをつなぐ.md",
     "400_Resources/00常に参照する/00claude tips.md",
