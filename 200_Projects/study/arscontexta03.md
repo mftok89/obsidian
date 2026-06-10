@@ -1,3 +1,9 @@
+---
+title: "arscontexta03"
+created: 2026-05-23
+tags: []
+---
+
 
 https://www.youtube.com/watch?v=mSf4NPjeeMU&t=223s
 ## 動画の要点
@@ -291,3 +297,11 @@ AIが：
 
 - 「シンプルメモ用途」
 - 「AIに知識構造を触られたくない」
+
+---
+
+## 関連
+- [[arscontexta01]]
+- [[arscontexta02]]
+- [[ハイブリッドzettelkaster]]
+- [[Obsidian によるナレッジ管理]]

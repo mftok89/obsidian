@@ -1,3 +1,9 @@
+---
+title: "スマホからのリモートコントロールobsidian"
+created: 2026-06-09
+tags: []
+---
+
 https://www.youtube.com/watch?v=lUE5MF06zIU
 
 # Claude remote-control 導入手順まとめ（Obsidian活用向け）

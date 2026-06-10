@@ -1,3 +1,9 @@
+---
+title: "WSL2_Cursor_GitHub_セットアップガイド"
+created: 2026-05-30
+tags: []
+---
+
 # WSL2 + Cursor + GitHub 完全セットアップガイド
 > Panasonic PC (Windows 11) 向け — 環境構築から日常的なGit操作まで
 

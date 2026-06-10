@@ -1,3 +1,9 @@
+---
+title: "dreamweaver ショートカットキー設定"
+created: 2026-05-05
+tags: []
+---
+
 編集＞キーボードショートカットキー
 
 ![[Pasted image 20260505011726.png]]

@@ -1,3 +1,9 @@
+---
+title: "SYNC_SETUP"
+created: 2026-05-02
+tags: []
+---
+
 # GitHub ↔ Google Drive 同期 セットアップ手順
 
 ## 概要

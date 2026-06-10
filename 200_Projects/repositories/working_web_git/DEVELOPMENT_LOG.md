@@ -1,3 +1,9 @@
+---
+title: "DEVELOPMENT_LOG"
+created: 2026-05-05
+tags: []
+---
+
 # DEVELOPMENT LOG
 > Claude Code / Gemini CLI / Cursor 共有メモリ
 > このファイルは各AIエージェントがセッション間で文脈を共有するために使用する。

@@ -1,3 +1,9 @@
+---
+title: "ハイブリッドzettelkaster"
+created: 2026-05-02
+tags: []
+---
+
 
 obsidian 推奨ディレクトリ構成
 
@@ -53,3 +59,11 @@ obsidian 推奨ディレクトリ構成
 - **Zettelkasten.de**: Zettelkastenシステムのオリジナルサイト。
 - **Obsidian公式ヘルプ**: Obsidianの機能に関する詳細情報。
 - **YouTubeチャンネル**: ZettelkastenとObsidianに関するチュートリアルビデオ。
+
+---
+
+## 関連
+- [[arscontexta01]]
+- [[arscontexta02]]
+- [[arscontexta03]]
+- [[Obsidian によるナレッジ管理]]

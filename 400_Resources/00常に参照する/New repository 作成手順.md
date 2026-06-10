@@ -1,3 +1,9 @@
+---
+title: "New repository 作成手順"
+created: 2026-06-08
+tags: []
+---
+
 - wsl2でターミナルを開く
 	- windows検索でubuntuと入力
 

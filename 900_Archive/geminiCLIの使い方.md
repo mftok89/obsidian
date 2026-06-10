@@ -1,3 +1,9 @@
+---
+title: "geminiCLIの使い方"
+created: 2026-05-02
+tags: []
+---
+
 #ノウハウ #gemini
 
 windowsキー　+ R

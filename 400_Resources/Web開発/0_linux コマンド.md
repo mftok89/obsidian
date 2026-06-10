@@ -1,3 +1,9 @@
+---
+title: "0_linux コマンド"
+created: 2026-05-02
+tags: []
+---
+
 ## 最新アップデート sudo apt update sudo apt upgrade
 
 	sudo apt update && sudo apt upgrade

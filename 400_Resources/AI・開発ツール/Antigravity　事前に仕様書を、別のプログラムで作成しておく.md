@@ -1,3 +1,9 @@
+---
+title: "Antigravity　事前に仕様書を、別のプログラムで作成しておく"
+created: 2026-05-02
+tags: []
+---
+
 #ノウハウ　　#Antigravity　
 
 

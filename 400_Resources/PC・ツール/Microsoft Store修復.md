@@ -1,3 +1,9 @@
+---
+title: "Microsoft Store修復"
+created: 2026-05-02
+tags: []
+---
+
 Microsoft Storeが起動しない場合の解決方法をいくつかご紹介します。順番に試してみてください。
 
 ---

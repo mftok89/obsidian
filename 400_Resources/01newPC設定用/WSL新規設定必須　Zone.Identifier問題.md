@@ -1,3 +1,9 @@
+---
+title: "WSL新規設定必須　Zone.Identifier問題"
+created: 2026-06-09
+tags: []
+---
+
 ## 1. cursorでZone.Identifierを表示させないようにする
 
 ### cursorのsettings.jsonファイルを変更する

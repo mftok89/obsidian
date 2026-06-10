@@ -1,3 +1,9 @@
+---
+title: "codex app server"
+created: 2026-05-17
+tags: []
+---
+
 これを利用して、無料でできる音声認識アプリを開発したい。
 claudeやgeminiに、それに代わる無料の機能はあるのだろうか？
 

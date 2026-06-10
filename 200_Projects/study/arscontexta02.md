@@ -1,3 +1,9 @@
+---
+title: "arscontexta02"
+created: 2026-05-23
+tags: []
+---
+
 https://www.youtube.com/watch?v=lXkHoLDal0k&t=68s
 
 ## 要約
@@ -182,3 +188,11 @@ AI処理を分業させることで、
 - Obsidianが本当に「第二の脳」になる
 
 という変化が起こる、と説明しています。
+
+---
+
+## 関連
+- [[arscontexta01]]
+- [[arscontexta03]]
+- [[ハイブリッドzettelkaster]]
+- [[Obsidian によるナレッジ管理]]

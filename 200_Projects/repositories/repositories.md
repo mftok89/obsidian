@@ -1,3 +1,9 @@
+---
+title: "repositories"
+created: 2026-05-10
+tags: []
+---
+
 
 ### [obsidian_git](https://github.com/mftok89/obsidian_git)
 

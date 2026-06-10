@@ -1,3 +1,9 @@
+---
+title: "ChromeのParallel　Download"
+created: 2026-05-21
+tags: []
+---
+
 chrome://flags
 brave://flags
 

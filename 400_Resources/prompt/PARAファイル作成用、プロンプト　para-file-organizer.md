@@ -1,3 +1,9 @@
+---
+title: "PARAファイル作成用、プロンプト　para-file-organizer"
+created: 2026-05-02
+tags: []
+---
+
 # PARA File Organizer Skill 生成用 brief
 
 このプロンプトを `/writing-skills`（superpowers）または同等の skill 生成エージェントに渡してください。あなた専用の汎用 PARA file-organizer skill が生成されます。

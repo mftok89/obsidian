@@ -1,3 +1,9 @@
+---
+title: "2026-05-04working_web_gitでの変更"
+created: 2026-05-04
+tags: []
+---
+
 #mft
 working_web_gitでの変更
 

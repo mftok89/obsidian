@@ -1,3 +1,9 @@
+---
+title: "chromeOS flexでobsidian 設定"
+created: 2026-05-02
+tags: []
+---
+
 #ubuntu #ノウハウ
 
 最初にファイルアプリで、共有したいフォルダを、右クリックで、[Linux と共有] を選択します。

@@ -1,3 +1,9 @@
+---
+title: "claude.md案"
+created: 2026-05-02
+tags: []
+---
+
 # CLAUDE.md - プロジェクト指示書
 
 ## ユーザー属性と対話ルール

@@ -1,3 +1,9 @@
+---
+title: "geminiCLIの有効活用参照ページ"
+created: 2026-05-02
+tags: []
+---
+
 https://note.com/dwarfwalkaround/n/n1726d18276bd
 
 #gemini #ノウハウ 

@@ -1,3 +1,9 @@
+---
+title: "MCPでWSLとobsidianをつなぐ"
+created: 2026-06-10
+tags: []
+---
+
 obsidianの設定
 Local REST API with MCPをコミュニティプラグインで、インストール
 （作者 adam coddington）

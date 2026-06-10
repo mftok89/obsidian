@@ -1,3 +1,9 @@
+---
+title: "ホームページファイル構成  dreamweaver (置換の覚書)"
+created: 2026-05-05
+tags: []
+---
+
 ●00web_working
 
 ローカル：　\Dropbox\web\working_web\

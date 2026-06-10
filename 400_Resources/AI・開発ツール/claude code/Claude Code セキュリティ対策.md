@@ -1,3 +1,9 @@
+---
+title: "Claude Code セキュリティ対策"
+created: 2026-05-02
+tags: []
+---
+
 ## 🔒 Claude Code セキュリティ対策 6つのポイント
 
 ### 1. 機密ファイル（.env）を隠す

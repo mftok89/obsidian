@@ -1,3 +1,9 @@
+---
+title: "arscontexta01"
+created: 2026-05-23
+tags: []
+---
+
 
 https://www.youtube.com/watch?v=Gdzu3DDatlw&t=1252s
 ## 要約
@@ -131,3 +137,11 @@ AIが自動で：
 - 本当のセカンドブレイン化
 
 が可能になる、という内容です。
+
+---
+
+## 関連
+- [[arscontexta02]]
+- [[arscontexta03]]
+- [[ハイブリッドzettelkaster]]
+- [[Obsidian によるナレッジ管理]]

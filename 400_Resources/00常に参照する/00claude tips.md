@@ -1,3 +1,9 @@
+---
+title: "00claude tips"
+created: 2026-05-13
+tags: []
+---
+
 https://www.youtube.com/watch?v=tckOndDPhm8&t=732s
 
  Tips⑦：Auto Run Mode[17:28](https://www.youtube.com/watch?v=tckOndDPhm8&t=1048s)

@@ -1,3 +1,9 @@
+---
+title: "INDIRECT関数　シート名のコントロール"
+created: 2026-05-02
+tags: []
+---
+
 #excel
 [https://excelcamp.jp/media/function/26813/](https://excelcamp.jp/media/function/26813/)
 

@@ -1,3 +1,9 @@
+---
+title: "Cursorによる倍速コーディングの要約"
+created: 2026-05-02
+tags: []
+---
+
 #cursor #ノウハウ 
 # YouTube動画「Cursorの教科書」の要約
 
