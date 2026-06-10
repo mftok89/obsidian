@@ -9,3 +9,14 @@ Obsidianで 設定 → Local REST API を開いて、以下を確認してくだ
 	   https://127.0.0.1:27124/mcp/
 	   のような形で表記されている
 
+
+
+---
+
+WSL再起動の手順
+
+1. このClaude Codeを終了する（Ctrl+C または /exit）
+2. Windowsの PowerShell を開いて実行：
+wsl --shutdown
+3. ターミナル（WSL）を開き直す
+4. claude を起動して「Obsidian MCPの続きをお願いします」と伝えてください
