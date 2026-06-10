@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a570d59697083c18",
+        "id": "0990a5e854528d40",
         "type": "tabs",
         "children": [
           {
-            "id": "a45b09abf4e330d6",
+            "id": "7ff67ccb22dd3474",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400_Resources/01newPC設定用/MCPでWSLとobsidianをつなぐ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MCPでWSLとobsidianをつなぐ"
+              "title": "新規タブ"
             }
           }
         ],
@@ -194,8 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a45b09abf4e330d6",
+  "active": "2ac4afb766a7b7dc",
   "lastOpenFiles": [
+    "300_Areas/AI協働/AIログ自動記録_マニュアル.md",
+    "300_Areas/AI協働/決断ログ.md",
+    "300_Areas/AI協働/AIミス・教訓ログ.md",
+    "300_Areas/AI協働",
+    "claude-write-test.md",
     "400_Resources/01newPC設定用/MCPでWSLとobsidianをつなぐ.md",
     "400_Resources/00常に参照する/00claude tips.md",
     "200_Projects/repositorie/risk001/20260609.md",
@@ -224,14 +225,9 @@
     "400_Resources/AI・開発ツール/週次コンテキストを壁打ちで更新する仕組み.md",
     "400_Resources/AI・開発ツール/週次コンテキストを壁打ちで更新する仕組み.md.tmp.14396.37da3c349c4a",
     "000_me/壁打ち_02_context更新.md",
-    "900_Archive/自分整理の途中.md",
-    "000_me/decisions_log.md",
     "000_me/03_preferences.md.tmp.14396.61c9c70b5fe2",
     "000_me/00_profile.md.tmp.14396.3b748b25db30",
     "000_me/02_context.md.tmp.14396.9f45c8398054",
-    "000_me/02_context.md.tmp.14396.d3a2ce4c4540",
-    "400_Resources/00常に参照する/リサーチ/03知りたいことのざっくり調査プロンプト.md",
-    "400_Resources/00常に参照する/リサーチ/02次の一手提案プロンプト.md",
     "無題のファイル.canvas",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
