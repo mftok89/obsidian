@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae36a10d23458d67",
+        "id": "0f239b751c5e2ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa44621980fbc33",
+            "id": "f6f7f78afd34d10f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ],
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aa44621980fbc33",
+  "active": "92a71bfe55c4f1ba",
   "lastOpenFiles": [
     "300_Areas/AI協働/AIミス・教訓ログ.md",
     "400_Resources/00常に参照する/01マニュアル.md",
