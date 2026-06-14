@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f239b751c5e2ec0",
+        "id": "625e676500cc1e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f7f78afd34d10f",
+            "id": "e3e3db71685af275",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f7f78afd34d10f",
+  "active": "e3e3db71685af275",
   "lastOpenFiles": [
-    "400_Resources/00常に参照する/01マニュアル.md",
     "400_Resources/00常に参照する/New repository 作成手順.md",
+    "400_Resources/00常に参照する/01マニュアル.md",
     "400_Resources/00常に参照する/00claude tips.md",
     "Clippings/Claude Code×Codex最強連携、失敗続きのAIアプリ開発が「成功率爆上げ」する全手順 3.md",
     "Clippings/Claude Code×Codex最強連携、失敗続きのAIアプリ開発が「成功率爆上げ」する全手順 2.md",
