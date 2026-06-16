@@ -1,0 +1,4 @@
+プラグイン
+github
+githibCLI
+コマンドgh
