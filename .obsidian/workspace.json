@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub_CLI_マニュアル.md",
+                "file": "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3e3db71685af275",
+  "active": "2ac4afb766a7b7dc",
   "lastOpenFiles": [
     "GEMINI.md",
-    "GitHub_CLI_マニュアル.md",
+    "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md",
     "GitHub_CLI_マニュアル.md.tmp.6372.7cd9046348ba",
     "GitHub_CLI_マニュアル.md.tmp.6372.0119d4edd863",
     "GitHub CLI (`gh`) 導入・運用マニュアル.md",
