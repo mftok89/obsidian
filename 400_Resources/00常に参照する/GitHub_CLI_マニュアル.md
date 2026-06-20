@@ -248,7 +248,7 @@ gh auth logout
 ```bash
 # リポジトリをクローン（owner/repo 形式でOK）
 # → GitHub 上のリポジトリをローカル（自分のPC）にコピーしてくる
-gh repo clone cli/cli
+gh repo clone mftok89/obsidian
 
 # 新しいリポジトリを作成（対話形式）
 # → 質問に答えながら GitHub 上に新しいプロジェクトを作る
@@ -260,7 +260,7 @@ gh repo view --web
 
 # リポジトリ情報を表示
 # → 指定したリポジトリの説明・言語・スター数などをターミナルで確認する
-gh repo view owner/repo
+gh repo view mftok89/obsidian
 
 # 自分のリポジトリ一覧
 # → GitHub に自分が持っているリポジトリを一覧表示する
@@ -498,7 +498,7 @@ gh pr view 45 --web
 `gh api` で GitHub REST / GraphQL API を直接呼び出せます。
 
 ```bash
-gh api repos/cli/cli
+gh api repos/mftok89/obsidian
 gh api user
 ```
 
@@ -537,14 +537,14 @@ gh config set editor "code --wait"   # 既定エディタを VS Code に
 
 ## 6. トラブルシューティング
 
-| 症状 | 対処 |
-|------|------|
-| `gh` が見つからない（command not found） | ターミナルを開き直す。パスが通っているか確認。再インストールも検討。 |
-| 認証エラーが出る | `gh auth status` で状態確認。必要なら `gh auth login` で再ログイン。 |
-| `git push` で認証を求められる | `gh auth setup-git` を実行して Git 認証ヘルパーを設定。 |
-| 権限不足（403 / scope エラー） | `gh auth refresh -s <必要なスコープ>` で権限を追加。 |
-| 社内 GitHub Enterprise に接続したい | `gh auth login` でホスト名を指定。または `GH_HOST` 環境変数を設定。 |
-| バージョンが古い | 各 OS のアップデートコマンドで更新（[2.5 インストールの確認](#25-インストールの確認)参照）。 |
+| 症状                              | 対処                                                     |
+| ------------------------------- | ------------------------------------------------------ |
+| `gh` が見つからない（command not found） | ターミナルを開き直す。パスが通っているか確認。再インストールも検討。                     |
+| 認証エラーが出る                        | `gh auth status` で状態確認。必要なら `gh auth login` で再ログイン。    |
+| `git push` で認証を求められる            | `gh auth setup-git` を実行して Git 認証ヘルパーを設定。               |
+| 権限不足（403 / scope エラー）           | `gh auth refresh -s <必要なスコープ>` で権限を追加。                 |
+| 社内 GitHub Enterprise に接続したい     | `gh auth login` でホスト名を指定。または `GH_HOST` 環境変数を設定。        |
+| バージョンが古い                        | 各 OS のアップデートコマンドで更新（[2.5 インストールの確認](#25-インストールの確認)参照）。 |
 
 ヘルプはいつでも次で確認できます。
 
@@ -564,7 +564,7 @@ gh auth status                認証状態の確認
 gh auth setup-git             Git 認証ヘルパー設定
 
 # リポジトリ
-gh repo clone owner/repo      クローン
+gh repo clone mftok89/obsidian  クローン
 gh repo create                新規作成
 gh repo view --web            ブラウザで開く
 
