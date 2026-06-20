@@ -252,6 +252,7 @@ gh repo clone mftok89/obsidian
 
 # 新しいリポジトリを作成（対話形式）
 # → 質問に答えながら GitHub 上に新しいプロジェクトを作る
+# projectsフォルダでcursorを開き、ターミナルから、下記コマンドを入力する
 gh repo create
 
 # 現在のリポジトリをブラウザで開く
