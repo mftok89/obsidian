@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md",
+                "file": "000_me/キーワード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub_CLI_マニュアル"
+              "title": "キーワード"
             }
           }
         ],
@@ -196,6 +196,11 @@
   },
   "active": "ae32c1cf34d6ca67",
   "lastOpenFiles": [
+    "index.base",
+    "Templates.md",
+    "GEMINI.md",
+    "google colabo CLI.md",
+    "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md",
     "200_Projects/study/arscontexta03.md",
     "100_inbox/OB会の問題.md",
     "200_Projects/study/arscontexta01.md",
@@ -209,7 +214,6 @@
     "100_inbox/利用者さん個人の幸福度.md",
     "100_inbox/大学生.md",
     "100_inbox/プロが選ぶマーケティング大賞.md",
-    "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md",
     "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md.tmp.17424.37b994e66793",
     "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md.tmp.17424.cc65e74c1282",
     "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md.tmp.17424.3407aff0f07e",
@@ -219,19 +223,14 @@
     "400_Resources/00常に参照する/コード開発に便利なプロンプト.md",
     "400_Resources/00常に参照する/New repository 作成手順.md",
     "400_Resources/00常に参照する/GitHub_CLI_マニュアル.md.tmp.15968.3e64c09f2291",
-    "GEMINI.md",
     "GitHub_CLI_マニュアル.md.tmp.6372.7cd9046348ba",
     "GitHub_CLI_マニュアル.md.tmp.6372.0119d4edd863",
     "GitHub CLI (`gh`) 導入・運用マニュアル.md",
     "400_Resources/00常に参照する/00claude tips.md",
     "300_Areas/AI協働/決断ログ.md",
     "300_Areas/AI協働/AIログ自動記録_マニュアル.md",
-    "300_Areas/AI協働/AIミス・教訓ログ.md",
-    "400_Resources/PC・ツール/EXCEL/excelノウハウ集.md",
-    "400_Resources/PC・ツール/EXCEL/条件付き書式の増殖を防ぐ方法.md",
     "Clippings",
     "400_Resources/03設定",
-    "400_Resources/02トラブル対応",
     "無題のファイル.canvas",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
