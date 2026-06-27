@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200_Projects/Todo.md",
+                "file": "000_me/キーワード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "キーワード"
             }
           }
         ],
@@ -196,9 +196,9 @@
   },
   "active": "ae32c1cf34d6ca67",
   "lastOpenFiles": [
+    "200_Projects/Todo.md",
     "200_Projects/AI秘書_claudecowork/claude_cowork_ai秘書_セットアップガイド.md",
     "Gemini を Claude の「サブエージェント」に.md",
-    "200_Projects/Todo.md",
     "index.base",
     "200_Projects/codex app server.md",
     "200_Projects/AI秘書_claudecowork/Claude Code「AI秘書」誰でもすぐ使えるテンプレートを公開します ー 設定3分で完了.md",
