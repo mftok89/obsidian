@@ -5,4 +5,6 @@
 - [ ] Obsidian整理　arscontexta
 - [ ] llmの圧縮の効果を確かめる [[llmの圧縮法]]
 - [ ] antigravityをClaudeのサブエージェントに [[Gemini を Claude の「サブエージェント」に]]
+- [ ] ollamaをCursorで利用できるようにするOPENCode
+- [ ] アイディア出しに特化したプロジェクトを作る、ABCで学んだ思考法も取り入れ、私の考え方を批判的に見るコンサルタントのサブエージェントを設けて、意見を取り入れる仕組みを作る
 
