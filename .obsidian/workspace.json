@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100_inbox/idea/ChatGPT.md",
+                "file": "100_inbox/idea/claudeの提案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT"
+              "title": "claudeの提案"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "ae32c1cf34d6ca67",
   "lastOpenFiles": [
-    "100_inbox/idea/claude.md",
-    "100_inbox/idea/ChatGPT.md",
+    "100_inbox/idea/ChatGPTの提案.md",
+    "100_inbox/idea/claudeの提案.md",
     "100_inbox/idea/おぼろげに考えにあること.md",
     "100_inbox/プロが選ぶマーケティング大賞.md",
     "100_inbox/idea",
