@@ -602,3 +602,4 @@ gh extension install <repo>   拡張機能追加
 - 公式サイト: <https://cli.github.com>
 - コマンドリファレンス（マニュアル）: <https://cli.github.com/manual>
 - ソース・リリース: <https://github.com/cli/cli/releases>
+
