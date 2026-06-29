@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_me/自分のポートフォリオ.md",
+                "file": "000_me/01_goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自分のポートフォリオ"
+              "title": "01_goals"
             }
           }
         ],
@@ -196,6 +196,10 @@
   },
   "active": "ae32c1cf34d6ca67",
   "lastOpenFiles": [
+    "000_me/00_profile.md",
+    "000_me/自分のポートフォリオ.md",
+    "000_me/壁打ち_02_context更新.md",
+    "000_me/自分のポートフォリオ.md.tmp.13124.8003c719b512",
     "000_me/自己紹介.md",
     "200_Projects/Todo.md",
     "000_me/キーワード体系（私の行動指針）.md",
@@ -209,7 +213,6 @@
     "200_Projects/study/arscontexta03.md",
     "200_Projects/study/arscontexta02.md",
     "200_Projects/study/arscontexta01.md",
-    "000_me/壁打ち_02_context更新.md",
     "400_Resources/00常に参照する/週次コンテキストを壁打ちで更新する仕組み.md",
     "100_inbox/idea/claudeの提案.md",
     "100_inbox/idea/ChatGPTの提案.md",
@@ -218,11 +221,8 @@
     "100_inbox/idea",
     "000_me/02_context.md",
     "000_me/01_goals.md",
-    "000_me/00_profile.md",
-    "000_me/自分のポートフォリオ.md",
     "000_me/キーワード.md",
     "400_Resources/00常に参照する/githubマニュアル/githubCLI 特定コミットに戻る方法.md",
-    "400_Resources/00常に参照する/New repository 作成手順.md",
     "400_Resources/00常に参照する/githubマニュアル",
     "Gemini を Claude の「サブエージェント」に.md.tmp.7104.f353529ceea5",
     "セキュアブート.md.tmp.7104.74435b1e44e8",
@@ -231,7 +231,6 @@
     "000_me/キーワード体系（私の行動指針）.md.tmp.7104.c11b1471919d",
     "index.base",
     "200_Projects/AI秘書_claudecowork",
-    "000_me/キーワード.md.tmp.9144.ff72e05a70cd",
     "無題のファイル.canvas",
     "imagedata/Pasted image 20260505011626.png",
     "imagedata/Pasted image 20260505011401.png",
