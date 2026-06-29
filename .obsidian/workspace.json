@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc1f0cc4ddc14de",
+        "id": "1a0128a6ca4a2a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae32c1cf34d6ca67",
+            "id": "80691d08f06e6c61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_me/01_goals.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "01_goals"
+              "title": "新規タブ"
             }
           }
         ],
@@ -194,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae32c1cf34d6ca67",
+  "active": "80691d08f06e6c61",
   "lastOpenFiles": [
-    "セキュアブート.md",
     "000_me/01_goals.md",
+    "セキュアブート.md",
     "000_me/00_profile.md",
     "000_me/自分のポートフォリオ.md",
     "000_me/壁打ち_02_context更新.md",
