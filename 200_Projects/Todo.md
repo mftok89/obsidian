@@ -3,8 +3,8 @@
 	- [ ] [[claude_cowork_ai秘書_セットアップガイド]]を新たなプロジェクトに張り付けて作成する
 - [ ] ローカル議事録システム
 - [ ] Obsidian整理　arscontexta　[[arscontexta01]]
-- [ ] llmの圧縮の効果を確かめる [[llmの圧縮法]]
-- [ ] antigravityをClaudeのサブエージェントに [[Gemini を Claude の「サブエージェント」に]]
+- [x] llmの圧縮の効果を確かめる [[llmの圧縮法]]
+- [x] antigravityをClaudeのサブエージェントに [[Gemini を Claude の「サブエージェント」に]]
 - [ ] ollamaをCursorで利用できるようにするOPENCode[[OpenCodeのローカル環境]]
 - [ ] アイディア出しに特化したプロジェクトを作る、ABCで学んだ思考法も取り入れ、私の考え方を批判的に見るコンサルタントのサブエージェントを設けて、意見を取り入れる仕組みを作る
 	- [ ] デザイン思考、ラテラル思考　私が見落としやすい点を鋭く突く、コンサルティング
