@@ -1,5 +1,6 @@
+[[llm圧縮比較評価]]
 
-種は、多言語・記号・絵文字をごちゃ混ぜにして圧縮すること。
+多言語・記号・絵文字をごちゃ混ぜにして圧縮すること。
 変換はLLMに頼めばよく、指示の例は以下の通りです。
 
 ”your task: compress verbose human text into minimal Token sequence.
